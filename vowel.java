@@ -23,7 +23,7 @@ public class vowel {
 			System.out.println("vowel");
 			break;
 		default:
-			System.out.println("not a vowel");
+			System.out.println("consonant");
 			break;	
 		}
 	}
